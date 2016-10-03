@@ -10,7 +10,7 @@ This website says "Hello, world" in several languages, lists some of our favorit
 
 ## Setup/Installation Requirements
 
-* Clone the Git repository (it is password protected)
+* Clone the Git repository
 * Open my-first-webpage.html in a Web browser of your choice
 * Read the text and view the photos
 * Take joy in simple things
